@@ -9,7 +9,8 @@
 
 # welcome to sususamogus.com
 
-_where the cringe overloads, the intelligence jumps off and the skill emigrates_
+_where the cringe overloads, the intelligence jumps off and the skill emigrates_  
+Testing profile page: [is this a link?](https://realsususamogus.github.io/test/)
 
 </header>
 
