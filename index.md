@@ -9,7 +9,6 @@ Some of my projects [p5js unfortunately](https://editor.p5js.org/GodlyHacker666/
 Interested in cybersecurity but hasnt started learning  
 as sun tzu once said  
 > the greatest way to waste time is to ponder how to do it
-> 
 
 ## Current endeavours
 making it out alive  
@@ -17,4 +16,4 @@ learning github and cybersec, preferably start with ctf
 maintain strands of my sanity  
 
 Real face reveal:  
-![2025-03-30 17 12 44](https://github.com/user-attachments/assets/6ec56e7f-dbfb-469a-8941-4d7233283938)  
+![Kermit Jumping Off a Building](https://tenor.com/bgTVC.gif)
