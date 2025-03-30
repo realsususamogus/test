@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# welcome to sususamogus.com
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_where the cringe overloads, the intelligence jumps off and the skill emigrates_
 
 </header>
 
@@ -18,28 +18,24 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## kachow!
 
-_Congratulations friend, you've completed this course!_
+_Congratulations viewer, you've found this random github page!_
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://github.com/user-attachments/assets/54a981d8-25ef-4b13-a8a0-cc81b909dfe9 alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
+should you get a medal? probably not.   
 
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+### What i've accomplished in life:  
+- created this page  
+- became a clown  
+- memorised the spongebob squarepants lore  
+- annoyed people  
 
 ### What's next?
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- probably lock in
+- get off instagram 
 
 <footer>
 
